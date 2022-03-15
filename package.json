@@ -1,0 +1,17 @@
+{
+  "name": "sunny-tickets",
+  "version": "1.0.0",
+  "description": "Simples bot para te ajudar com tickets!",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImSunny001/SunnyTickets.git"
+  },
+  "author": "Sunny",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
